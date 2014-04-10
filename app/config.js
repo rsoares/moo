@@ -9,6 +9,7 @@ require.config({
 
     jquery: "../assets/js/lib/jquery",
     backbone: "../assets/js/lib/backbone",
+    underscore: "../assets/js/lib/underscore",
     handlebars: "../assets/js/lib/handlebars",
 
     // External assets
